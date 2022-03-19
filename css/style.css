@@ -147,10 +147,10 @@ nav .enlaces a:hover {
     top: 90vh;
     right: 0;
     left: 0;
-    animation: show-dropdown 4s  infinite;
+    /* animation: show-dropdown 4s  infinite; */
 }
 
-@keyframes show-dropdown {
+/* @keyframes show-dropdown {
     0% {
         opacity: 0;
     }
@@ -160,7 +160,7 @@ nav .enlaces a:hover {
     100% {
         opacity: 0;
     }
-}
+} */
     
 
 .texto-header .dropdown a{
